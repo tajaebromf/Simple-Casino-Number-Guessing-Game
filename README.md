@@ -1,3 +1,5 @@
+[![Scorecard supply-chain security](https://api.securityscorecards.dev/projects/github.com/<username>/<repo>/badge)](https://api.securityscorecards.dev/projects/github.com/<username>/<repo>)
+
 # Simple-Casino-Number-Guessing-Game
 Project for Programming 1
 This is a Casino Number Guessing Game for my Programming 1 Class.
