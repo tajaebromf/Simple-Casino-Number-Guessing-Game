@@ -1,4 +1,4 @@
-[![Scorecard supply-chain security](https://api.securityscorecards.dev/projects/github.com/<tajaebromf>/<Simple-Casino-Number-Guessing-Game>/badge)](https://api.securityscorecards.dev/projects/github.com/<tajaebromf>/<Simple-Casino-Number-Guessing-Game>)
+[![Scorecard supply-chain security](https://api.securityscorecards.dev/projects/github.com/<tajaebromf>/<SimpleCasinoNumberGuessingGame>/badge)](https://api.securityscorecards.dev/projects/github.com/<tajaebromf>/<SimpleCasinoNumberGuessingGame>)
 
 # Simple-Casino-Number-Guessing-Game
 Project for Programming 1
