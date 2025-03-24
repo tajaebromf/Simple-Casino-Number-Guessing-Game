@@ -1,5 +1,5 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/tajaebromf/Simple-Casino-Number-Guessing-Game/badge)](https://scorecard.dev/viewer/?uri=github.com/tajaebromf/Simple-Casino-Number-Guessing-Game)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4486/badge)](https://bestpractices.coreinfrastructure.org/projects/4486)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4486/badge)]((https://www.bestpractices.dev/en/projects/10264))
 
 # Simple-Casino-Number-Guessing-Game
 Project for Programming 1
